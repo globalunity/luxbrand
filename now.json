@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+  	{"src": "/(.*)","dest": "https://dev-vidokun.pantheonsite.io/$1"}
+  ]
+}
